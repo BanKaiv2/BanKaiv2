@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 [Unicorn](https://github.com/BanKaiv2/WF3-Unicorn) | [WF3-National](https://github.com/WF3-National/Unicorn) | Terminé | 17/01/2022 |
 [Pizzeria](https://github.com/BanKaiv2/WF3-Pizzeria) | [WF3-National](https://github.com/WF3-National/Pizzeria) | En cours | 17/01/2022 |
 ##Bootstrap
-[One Million Lines BS](https://github.com/BanKaiv2/WF3-One-Million-Lines-BS) | [WF3-National](https://github.com/WF3-National/One-Million-Lines-Bootstrap) | En cours | 18/01/2022 |
+[One Million Lines BS](https://github.com/BanKaiv2/WF3-One-Million-Lines-BS) | [WF3-National](https://github.com/WF3-National/One-Million-Lines-Bootstrap) | Terminé | 18/01/2022 |
